@@ -21,7 +21,7 @@ Type the appropriate code for your table and provide appropriate data types to t
 Create a report about your project in readme.md file and upload the django.orm.app folder to your remote repository.
 
 ## PROGRAM
-
+```
 from django.db import models
 from django.contrib import admin
 # Create your models here.
@@ -34,7 +34,7 @@ class Bus(models.Model):
 class Businfo(admin.ModelAdmin):
     list_display = ('Busno','driver','From','To','noofseats')    
 
-
+```
 ## OUTPUT
 
 Include the screenshot of your admin page.
