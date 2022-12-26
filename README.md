@@ -39,7 +39,10 @@ class Businfo(admin.ModelAdmin):
 ```
 ## OUTPUT
 
-Include the screenshot of your admin page.
+### Businfo Table
+![output-orm](https://user-images.githubusercontent.com/118704873/209543889-9c49ef16-157b-4c50-ae0c-74da97039e0a.png)
+
+
 
 
 ## RESULT
