@@ -1,11 +1,14 @@
 # Django ORM Web Application
 
 ## AIM
-To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
+To develop a Django application to store and retrieve bus information using ORM .
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
+### Bus Information Entity Diagram
+
+
+
 
 ## DESIGN STEPS
 
