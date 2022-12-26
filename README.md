@@ -7,6 +7,8 @@ To develop a Django application to store and retrieve bus information using ORM 
 
 ### Bus Information Entity Diagram
 
+![entity](https://user-images.githubusercontent.com/118704873/209542725-056b9182-2b99-4c51-a1d8-87d9d7c48cbd.png)
+
 
 
 
