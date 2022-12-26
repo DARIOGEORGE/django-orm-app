@@ -46,3 +46,4 @@ class Businfo(admin.ModelAdmin):
 
 
 ## RESULT
+Thus the project is developed to have Bus information database
